@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "7cc4c2561ac01f1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fc79e7a91811f60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76c76e1d45d231f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识/IEC102/IEC 102 协议解析器完整知识库.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IEC 102 协议解析器完整知识库"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61128765f80d97b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ce73723550905e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57e029cd095967e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1fd75f884f2e1334",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f841d7ca3ed105eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1b0b56d4c9ff2ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "8649f2ced575d24f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffe4ae7ba7686d9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知识/IEC102/IEC 102 协议解析器完整知识库.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "IEC 102 协议解析器完整知识库 的反向链接列表"
+            }
+          },
+          {
+            "id": "4a9672691df4b5fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名 1.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 1 的出链列表"
+            }
+          },
+          {
+            "id": "e9d58b928099c244",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "22a983bb06827b08",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "83a800b499ac72b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名 1.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 1 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 595.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "76c76e1d45d231f0",
+  "lastOpenFiles": [
+    "工作/hi5000/公用/hi5000版本查询接口实现.md",
+    "未命名.base",
+    "工作计划/HI5000山西/河口功率预测准确率排查.md",
+    "图片/Pasted image 20260414161222.png",
+    "图片/Pasted image 20260414161142.png",
+    "图片",
+    "Pasted image 20260414161049.png",
+    "工作/hi5000/新疆/指标/可用功率指标算法分析.md",
+    "工作计划/HI5000山西/取数准确性专项排查.md",
+    "工作计划/HI5000山西/现场问题处理.md",
+    "工作计划/HI5000山西/流量分析.md",
+    "工作计划/HI5000山西/链路判断准确性专项排查.md",
+    "工作计划/HI5000 V3.0/告警重构方案讨论.md",
+    "工作计划/HI5000 V3.0/指标告警重构-实时区.md",
+    "工作计划/HI5000新疆/功率预测-可用功率.md",
+    "知识/IEC102/IEC 102 协议解析器完整知识库.md",
+    "工作计划/工作计划指标准确性排查.md",
+    "工作计划/2026年4月工作计划.md",
+    "工作计划/HI5000新疆/光现场指标重算.md",
+    "工作计划/HI5000新疆/代码评审.md",
+    "工作计划/HI5000 V3.0/指标告警重构-非实时区.md",
+    "工作计划/HI5000 V3.0/告警查询重构.md",
+    "Flask API 接口.md",
+    "知识/IEC102/UI Enhancement Design.md",
+    "知识/IEC102/Requirements Summary.md",
+    "知识/IEC102/Parsing Details.md",
+    "知识/IEC102/IEC 102 协议解析器项目.md",
+    "知识/IEC102/IEC 102 协议规范.md",
+    "知识/IEC102/文件传输功能.md",
+    "知识/IEC102/解析器实现细节.md",
+    "知识/IEC102",
+    "IEC102",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "未命名 1.base",
+    "知识",
+    "scripts/check-fullcalendar-setup.js",
+    "scripts/create-month-events.js",
+    "Calendar/2026-04",
+    "Calendar/templates"
+  ]
+}

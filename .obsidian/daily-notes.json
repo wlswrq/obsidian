@@ -1,0 +1,6 @@
+{
+  "format": "YYYY-MM-DD",
+  "folder": "日记",
+  "template": "日记/Template.md",
+  "newFileLocation": "folder"
+}
