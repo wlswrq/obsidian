@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python optimize_wechat_notes.py)",
+      "Bash(python optimize_wechat_notes.py --auto)"
+    ]
+  }
+}

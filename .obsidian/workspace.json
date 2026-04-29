@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识/IEC102/IEC 102 协议解析器完整知识库.md",
+                "file": "工作/hi5000/新疆/指标/技术实现细节.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IEC 102 协议解析器完整知识库"
+              "title": "技术实现细节"
+            }
+          },
+          {
+            "id": "3c4a346d23668b0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作/hi5000/新疆/指标/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "d04355a9c04e2811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作/hi5000/新疆/指标/可用功率-算法与实现.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "可用功率-算法与实现"
+            }
+          },
+          {
+            "id": "0c2bc11a0148d053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作计划/HI5000山西/河口功率预测准确率排查.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "河口功率预测准确率排查"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/IEC102/IEC 102 协议解析器完整知识库.md",
+                "file": "可用功率指标限电逻辑修改.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "IEC 102 协议解析器完整知识库 的反向链接列表"
+              "title": "可用功率指标限电逻辑修改 的反向链接列表"
             }
           },
           {
@@ -169,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 595.5
+    "width": 595.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,51 +224,53 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "76c76e1d45d231f0",
+  "active": "57e029cd095967e5",
   "lastOpenFiles": [
+    "图片/企业微信截图_1776999055742.png",
+    "可用功率指标限电逻辑修改.md",
+    "工作/hi5000/新疆/指标/技术实现细节.md",
     "工作/hi5000/公用/hi5000版本查询接口实现.md",
-    "未命名.base",
-    "工作计划/HI5000山西/河口功率预测准确率排查.md",
-    "图片/Pasted image 20260414161222.png",
-    "图片/Pasted image 20260414161142.png",
-    "图片",
-    "Pasted image 20260414161049.png",
-    "工作/hi5000/新疆/指标/可用功率指标算法分析.md",
-    "工作计划/HI5000山西/取数准确性专项排查.md",
+    "工作/hi5000/公用/指标通用实现规范.md",
+    "工作/hi5000/新疆/指标/README.md",
+    "工作/hi5000/新疆/指标/可用功率指标实现说明.md",
+    "工作/hi5000/新疆/指标/可用功率下钻页面接口及实现计划.md",
+    "工作/hi5000/新疆/指标/可用功率-修改与优化记录.md",
+    "工作/hi5000/新疆/指标/可用功率-算法与实现.md",
+    "工作计划/README.md",
+    "工作计划/HI5000工作计划模板.md",
+    "工作计划/2026年4月工作计划.md",
     "工作计划/HI5000山西/现场问题处理.md",
+    "工作计划/HI5000山西/取数准确性专项排查.md",
     "工作计划/HI5000山西/流量分析.md",
     "工作计划/HI5000山西/链路判断准确性专项排查.md",
-    "工作计划/HI5000 V3.0/告警重构方案讨论.md",
-    "工作计划/HI5000 V3.0/指标告警重构-实时区.md",
-    "工作计划/HI5000新疆/功率预测-可用功率.md",
-    "知识/IEC102/IEC 102 协议解析器完整知识库.md",
-    "工作计划/工作计划指标准确性排查.md",
-    "工作计划/2026年4月工作计划.md",
-    "工作计划/HI5000新疆/光现场指标重算.md",
-    "工作计划/HI5000新疆/代码评审.md",
-    "工作计划/HI5000 V3.0/指标告警重构-非实时区.md",
-    "工作计划/HI5000 V3.0/告警查询重构.md",
-    "Flask API 接口.md",
-    "知识/IEC102/UI Enhancement Design.md",
-    "知识/IEC102/Requirements Summary.md",
-    "知识/IEC102/Parsing Details.md",
-    "知识/IEC102/IEC 102 协议解析器项目.md",
-    "知识/IEC102/IEC 102 协议规范.md",
-    "知识/IEC102/文件传输功能.md",
-    "知识/IEC102/解析器实现细节.md",
-    "知识/IEC102",
-    "IEC102",
-    "未命名 2.canvas",
+    "工作计划/HI5000山西/河口功率预测准确率排查.md",
+    "工作计划/README.md.tmp.24836.1776734508101",
+    "工作计划/README.md.tmp.24836.1776734499310",
+    "工作计划/README.md.tmp.24836.1776734421287",
+    "工作/hi5000/新疆/指标/取数逻辑优化.md",
+    "工作/hi5000/新疆/指标/README.md.tmp.24836.1776733779296",
+    "工作/hi5000/新疆/指标/可用功率-修改与优化记录.md.tmp.24836.1776733757834",
+    "工作/hi5000/新疆/指标/可用功率算法说明.md",
+    "工作/hi5000/新疆/指标/可用功率-总览.md",
     "未命名 1.canvas",
+    "工作计划/HI5000工作计划模板.md.tmp.24836.1776733430248",
     "未命名.canvas",
-    "未命名 1.base",
-    "知识",
-    "scripts/check-fullcalendar-setup.js",
-    "scripts/create-month-events.js",
-    "Calendar/2026-04",
-    "Calendar/templates"
+    "未命名.base",
+    "工作/hi5000/新疆/指标/index.md",
+    "知识/IEC102/IEC 102 协议解析器完整知识库.md",
+    "工作/hi5000/新疆/指标/可用功率指标修改记录.md",
+    "工作/README.md",
+    "工作/hi5000/新疆/指标/可用功率指标算法分析.md.tmp.9448.1776660097488",
+    "工作/hi5000/新疆/指标/可用功率指标算法分析.md.tmp.9448.1776659425673",
+    "工作/hi5000/新疆/指标/可用功率指标算法分析.md",
+    "工作/hi5000/新疆/指标/可用功率指标算法分析.md.tmp.9448.1776658136378",
+    "未命名 2.canvas",
+    "图片/Pasted image 20260414161222.png",
+    "图片/Pasted image 20260414161142.png",
+    "Pasted image 20260414161049.png"
   ]
 }
